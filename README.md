@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Victor Vagas, an expert Python/JavaScript developer with 7 years of experience.
+My name is Victor Vagas, an expert Python/JavaScript developer with 10 years of experience.
 My main skills are Python, Django, DRF, Flask, FastAPI, JavaScript, TypeScript, React, Angular, Vue, Electron, Node, Express, PHP, Laravel, Docker, AWS, Github, etc.
 
 Here are some ideas to get you started:
